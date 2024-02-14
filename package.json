@@ -1,0 +1,19 @@
+{
+  "name": "granail",
+  "version": "0.0.0",
+  "description": "null",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GraNail/npmjs.git"
+  },
+  "author": "GraNail <granail@groups.outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GraNail/npmjs/issues"
+  },
+  "homepage": "https://github.com/GraNail/npmjs#readme"
+}
